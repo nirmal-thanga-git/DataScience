@@ -2,4 +2,8 @@ a = 5
 b = 10
 c = a + b
 
-print (c)
+# addition
+print (a+b)
+
+# substraction
+print (a-b)
