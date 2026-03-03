@@ -9,4 +9,7 @@ print (a+b)
 print (a-b)
 
 # multiply
-print (a * b)
+print (a*b)
+
+# divide
+print (a/b)
