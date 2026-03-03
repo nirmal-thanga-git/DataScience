@@ -7,3 +7,6 @@ print (a+b)
 
 # substraction
 print (a-b)
+
+# multiply
+print (a * b)
