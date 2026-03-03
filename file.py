@@ -1,6 +1,5 @@
 a = 5
 b = 10
+c = a + b
 
-print (a+b)
-
-# message is to test
+print (c)
